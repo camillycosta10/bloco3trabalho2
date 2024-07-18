@@ -61,7 +61,7 @@ sub {
     font-weight: bold;
 }
 
-@media (max-width: 768px) {
+.media (max-width: 768px) {
     .ambiente {
         flex-direction: column;
         align-items: center;
